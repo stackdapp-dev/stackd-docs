@@ -7,7 +7,7 @@ The process is simple and completely non-custodial. You are always in control of
 The Stack'd workflow consists of four main steps:
 
 ### 1. Deposit Collateral
-You deposit your **WBTC** (Wrapped Bitcoin) or **PAXG** (Pax Gold) into the Stack'd Protocol on the Arbitrum network. 
+You deposit your **WBTC** (Wrapped Bitcoin) or **XAUT** (Tether Gold) into the Stack'd Protocol on the Arbitrum network. 
 *   This locks the asset into a secure Smart Contract.
 *   You can withdraw it at any time, as long as you don't have an outstanding loan that exceeds the safety limit.
 

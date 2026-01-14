@@ -5,7 +5,7 @@ Follow this guide to securely lock your Bitcoin or Gold into the Stack'd Protoco
 ## Prerequisites
 *   You need a Web3 Wallet (like **MetaMask** or **Rabbit**).
 *   You need some **ETH (Arbitrum)** in your wallet to pay for transaction fees (gas). Gas on Arbitrum is very cheap (usually < $0.10).
-*   You need **WBTC** or **PAXG** on the Arbitrum network.
+*   You need **WBTC** or **XAUT** on the Arbitrum network.
 
 ## Step-by-Step
 

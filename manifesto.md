@@ -18,7 +18,7 @@ This dilemma forces people to choose between their present well-being and their 
 
 The wealthy have used this strategy for decades: **"Buy, Borrow, Die."** They buy assets (real estate, stocks, art), borrow against them to fund their lifestyle, and never sell the principal. 
 
-Stack'd democratizes this strategy. We make it easy for anyone with Bitcoin or Tokenized Gold (PAXG) to access this same financial superpower.
+Stack'd democratizes this strategy. We make it easy for anyone with Bitcoin or Tokenized Gold (XAUT) to access this same financial superpower.
 
 *   You keep 100% of the asset appreciation.
 *   You access the buying power today.
