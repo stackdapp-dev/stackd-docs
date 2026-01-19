@@ -2,26 +2,28 @@
 
 ## Why We Built Stack'd
 
-We believe that **Hard Money** (like Bitcoin and Gold) is the best protection against the devaluation of fiat currency. Inflation is a silent tax on your savings, eroding your purchasing power every single year.
+Inflation is the silent thief. Every year, it erodes your purchasing power—quietly eating away at your savings while prices climb higher. We built Stack'd because we believe there's a better way.
 
-Saving in fiat currency (Dollars, Euros, Yen) is a losing strategy over the long term. Saving in assets that are scarce, verifiable, and decentralized is the way to preserve wealth.
+**Gold and Bitcoin are protection.** They're scarce, verifiable, and have historically preserved wealth when fiat currencies lose value. Holding these hard assets is how you inflation-proof your life.
 
-### The Dilemma of the "HODLer"
+### The Dilemma
 
-We've all been there: You have significant savings in Bitcoin or Gold, but you have a bill to pay. 
-*   **If you sell**, you solve the immediate problem, but you damage your long-term financial future. You have less of the asset that protects you.
-*   **If you don't sell**, you might not be able to afford the expenses you have today.
+We've all been there: You have savings in Gold or Bitcoin, but you need cash for something important.
 
-This dilemma forces people to choose between their present well-being and their future wealth.
+*   **If you sell**, you solve the immediate problem, but you weaken your long-term financial shield. You have less of the asset that protects you from inflation.
+*   **If you don't sell**, you might struggle to afford today's expenses.
 
-### The Third Option: Liquidity without Sale
+This forces a painful choice between your present well-being and your future wealth.
 
-The wealthy have used this strategy for decades: **"Buy, Borrow, Die."** They buy assets (real estate, stocks, art), borrow against them to fund their lifestyle, and never sell the principal. 
+### The Third Option: Liquidity Without Selling
 
-Stack'd democratizes this strategy. We make it easy for anyone with Bitcoin or Tokenized Gold (XAUT) to access this same financial superpower.
+The wealthy have used this strategy for decades: **"Buy, Borrow, Die."** They buy assets, borrow against them to fund their lifestyle, and never sell the principal.
+
+Stack'd brings this strategy to everyone. If you hold Bitcoin or Gold, you can access this same financial superpower.
 
 *   You keep 100% of the asset appreciation.
-*   You access the buying power today.
+*   You access the cash you need today.
 *   You avoid the taxable event of selling.
 
-We built Stack'd to help you **Stack** more assets, wait out the inflation storm, and come out the other side with your wealth intact.
+We built Stack'd to help you hold onto your hard assets, wait out the inflation storm, and come out the other side with your purchasing power intact.
+

@@ -1,21 +1,23 @@
 # Welcome to Stack'd
 
-## Beat Inflation. Keep Your Assets.
+## Inflation-Proof Your Life
 
-**You don't have to sell your Bitcoin to live your life.**
+**Imagine life without inflation.**
 
-Stack'd is a secure financial tool that allows you to borrow cash (USDT) against your Bitcoin or Gold collateral without selling the underlying asset. This enables you to access liquidity for real-world expenses while maintaining your long-term position in hard money assets that have historically outperformed inflation.
+You don't have to sell your Gold or Bitcoin holdings to pay for life's expenses. Stack'd lets you borrow cash against your hard assets—without giving them up.
+
+Stack'd is a secure financial tool that allows you to borrow cash (USDT) against your Gold or Bitcoin collateral without selling the underlying asset. Access the liquidity you need for real-world expenses while your assets continue protecting your purchasing power.
 
 ### The Problem
 When you need cash for expenses—like a car, a home renovation, or just daily living—you usually have to sell your assets. 
 *   **Selling means taxes**: You trigger a taxable event (Capital Gains).
 *   **Selling means missing out**: You lose the potential future upside of that asset.
-*   **Selling means inflation wins**: You exchange hard investments for depreciating fiat currency.
+*   **Selling means inflation wins**: You exchange hard assets for depreciating fiat currency.
 
 ### The Stack'd Solution
-Instead of selling, you **Stack** your assets in a secure, audited smart contract on the Arbitrum network. You then borrow stablecoins (USDT) against them.
+Instead of selling, you lock your assets in a secure, audited smart contract on the Arbitrum network and borrow stablecoins (USDT) against them.
 *   **No Capital Gains Tax**: Borrowing is not a taxable event in many jurisdictions (check with your tax advisor).
-*   **Keep the Upside**: You still own the Bitcoin/Gold. If the price goes up, your portfolio grows.
+*   **Keep the Upside**: You still own your Gold and Bitcoin. If the price goes up, your portfolio grows.
 *   **Flexible Repayment**: No monthly payments. Pay back the loan whenever you want to unlock your collateral.
 
 ### Is it Safe?
